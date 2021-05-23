@@ -1,6 +1,3 @@
-```bash
-npm install
-npm start
-```
+## Infinite Scroll Using JS
 
-<img src''./project-img.png>
+<img src='./project-img.png' />
